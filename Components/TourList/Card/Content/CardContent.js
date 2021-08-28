@@ -1,5 +1,5 @@
 import React from "react";
-import CustomButton from "../../Button/CustomButton";
+import CustomButton from "../Button/CustomButton";
 import {LinearGradient} from "expo-linear-gradient";
 import {Text, View, ImageBackground, StyleSheet, Dimensions} from "react-native";
 

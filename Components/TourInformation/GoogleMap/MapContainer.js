@@ -12,7 +12,6 @@ export default function App() {
 
 const styles = StyleSheet.create({
     container: {
-        flex:1,
         zIndex:0,
         position:"relative",
     },
@@ -23,3 +22,4 @@ const styles = StyleSheet.create({
         height: Dimensions.get('screen').height,
     },
 });
+
