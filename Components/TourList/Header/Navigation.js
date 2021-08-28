@@ -1,5 +1,5 @@
 import React from "react";
-import {View, StyleSheet} from "react-native";
+import {View, StyleSheet, Dimensions} from "react-native";
 import Menu from "./Navigation/MenuButton";
 import SearchBar from "./Navigation/SearchBar";
 
@@ -10,20 +10,18 @@ const Navigation = () => {
                 <Menu/><SearchBar/>
             </View>
         </View>
-
     )
 }
 
 const navigation = StyleSheet.create({
     container:{
-        marginTop:20,
-        marginBottom:10,
         flexDirection: 'column',
         alignItems:'center',
+        marginVertical: 20,
     },
     content: {
+        width: Dimensions.get("window").width/100*90,
         flexDirection: 'row',
-        width:'90%',
         justifyContent: 'space-between',
     },
 })

@@ -10,7 +10,7 @@ const Header = (props) => {
 const styles = StyleSheet.create({
   title: {
     marginLeft: 20,
-    marginVertical: 20,
+    marginBottom: 20,
     fontSize: 22,
     fontWeight: "700",
     color: "#0E1428",

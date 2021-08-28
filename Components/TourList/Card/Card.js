@@ -14,7 +14,6 @@ const Background2 = { uri: "https://all.accor.ro/userfiles/galatioras_1602661176
 const Background3 = { uri: "https://www.expat.com/upload/guide/1563428489-galati-news_item_slider-t1563428489.jpg" };
 const Background4 = { uri: "https://apdmgalati.ro/wp-content/uploads/2020/12/ArtHeart-APDMports-0563-scaled.jpg" };
 const Background5 = { uri: "https://ugalmat.ugal.ro/old-site/Galati,%20Romania/04a.jpg" };
-const Background6 = { uri: "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0c/41/f7/86/sunset-on-galati.jpg" };
 
 // Function Component
 const Card = () => {
@@ -25,7 +24,6 @@ const Card = () => {
       <Content name={Name} time={Time} group={Group} location={Location} background={Background3} />
       <Content name={Name} time={Time} group={Group} location={Location} background={Background4} />
       <Content name={Name} time={Time} group={Group} location={Location} background={Background5} />
-      <Content name={Name} time={Time} group={Group} location={Location} background={Background6} />
     </View>
   );
 };

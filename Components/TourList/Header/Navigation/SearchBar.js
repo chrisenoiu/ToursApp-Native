@@ -1,12 +1,10 @@
 import React from "react";
-import {View, TextInput, StyleSheet, Dimensions} from "react-native";
+import {TextInput, StyleSheet, Dimensions} from "react-native";
 
 
 const SearchBar = () => {
     return (
-        <View>
-            <TextInput style={styles.input} placeholder={'Cauta un tur'}/>
-        </View>
+        <TextInput style={styles.input} placeholder={'Cauta un tur'}/>
     );
 };
 

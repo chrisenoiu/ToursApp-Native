@@ -1,23 +1,25 @@
-import React from "react";
-import {GoogleMap, LoadScript} from "@react-google-maps/api";
-import {Dimensions} from "react-native";
+import * as React from 'react';
+import MapView from 'react-native-maps';
+import { StyleSheet, View, Dimensions } from 'react-native';
 
-const MapContainer = () => {
-    const MapStyles = {
-        height: Dimensions.get("window").height,
-        width: Dimensions.get("window").width,
-        zIndex: 0,
-        elevation: 0,
-    };
-    const DefaultLocation = {lat: 45.436640268450205, lng: 28.03560472277713};
-    const APIKey = 'AIzaSyD4ljCDCFFOKVuxsnkbEjpPQz19L5HNfEQ';
-
+export default function App() {
     return (
-        <LoadScript googleMapsApiKey={APIKey}>
-            <GoogleMap mapContainerStyle={MapStyles} zoom={15} center={DefaultLocation} disableDefaultUI={true}
-                       streetViewControl={false}/>
-        </LoadScript>
+        <View style={styles.container}>
+            <MapView style={styles.map} />
+        </View>
     );
-};
+}
 
-export default MapContainer;
+const styles = StyleSheet.create({
+    container: {
+        flex:1,
+        zIndex:0,
+        position:"relative",
+    },
+    map: {
+        alignItems: 'center',
+        justifyContent: 'center',
+        width: Dimensions.get('screen').width,
+        height: Dimensions.get('screen').height,
+    },
+});

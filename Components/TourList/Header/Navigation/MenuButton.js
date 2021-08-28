@@ -1,6 +1,5 @@
 import React from "react";
 import {Text, StyleSheet, View, Pressable} from "react-native";
-import {useNavigation} from "@react-navigation/native";
 
 // Icon Import
 import Icon from 'react-native-vector-icons/Ionicons';

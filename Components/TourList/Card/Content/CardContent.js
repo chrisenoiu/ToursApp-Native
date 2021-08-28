@@ -1,7 +1,7 @@
 import React from "react";
 import CustomButton from "../../Button/CustomButton";
 import {LinearGradient} from "expo-linear-gradient";
-import {Text, View, ImageBackground, StyleSheet} from "react-native";
+import {Text, View, ImageBackground, StyleSheet, Dimensions} from "react-native";
 
 // Icon Import
 import Icon from 'react-native-vector-icons/Ionicons';
@@ -45,14 +45,14 @@ const Content = (props) => {
 
 const styles = StyleSheet.create({
     container: {
-        width: "90%",
+        width: Dimensions.get("window").width/100*90,
         flexDirection: "column",
         marginBottom: 10,
     },
     content: {
         flexDirection: "column",
         justifyContent: "space-between",
-        height: 92,
+        height: Dimensions.get("window").height/100*15,
     },
     image: {
         resizeMode: "cover",
