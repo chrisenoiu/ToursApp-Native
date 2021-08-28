@@ -29,9 +29,7 @@ const Metrics = () => {
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1,
         marginHorizontal: Dimensions.get("window").width / 100 * 5,
-        marginTop: Dimensions.get("window").height / 100 * 10,
     },
     content:{
         flexDirection: "row",

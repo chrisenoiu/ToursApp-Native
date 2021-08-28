@@ -10,7 +10,7 @@ export default function App() {
     return (
         <SafeAreaView style={styles.view}>
             <NavigationContainer>
-                <Stack.Navigator initialRouteName="TourInfo" screenOptions={{headerShown:false}}>
+                <Stack.Navigator initialRouteName="ToursList" screenOptions={{headerShown:false}}>
                     <Stack.Screen name="ToursList" component={ToursList}/>
                     <Stack.Screen name="TourInfo" component={TourInfo}/>
                 </Stack.Navigator>
@@ -25,3 +25,4 @@ const styles = StyleSheet.create({
         height: Dimensions.get('screen').height,
     }
 })
+

@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         width: Dimensions.get('screen').width,
-        height: Dimensions.get('screen').height,
+        height: Dimensions.get('screen').height/100*70,
     },
 });
 
