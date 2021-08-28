@@ -8,7 +8,7 @@ export default function App() {
     const Stack = createNativeStackNavigator();
     return (
         <NavigationContainer>
-            <Stack.Navigator initialRouteName="TourInfo">
+            <Stack.Navigator initialRouteName="ToursList">
                 <Stack.Screen name="ToursList" component={ToursList} />
                 <Stack.Screen name="TourInfo" component={TourInfo} />
             </Stack.Navigator>

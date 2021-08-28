@@ -16,13 +16,15 @@ const Navigation = () => {
 
 const navigation = StyleSheet.create({
     container:{
+        marginTop:20,
+        marginBottom:10,
         flexDirection: 'column',
         alignItems:'center',
     },
     content: {
         flexDirection: 'row',
         width:'90%',
-        justifyContent: 'space-between'
+        justifyContent: 'space-between',
     },
 })
 
