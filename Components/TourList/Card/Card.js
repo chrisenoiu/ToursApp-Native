@@ -7,8 +7,6 @@ const Name = "Fantomele Galatiului";
 const Time = "8h";
 const Group = "9";
 const Location = "Galati";
-
-// Card Backgrounds
 const Background1 = {uri: "https://go4booking.net/uploads/cms/images/1572624564_2.jpg"};
 const Background2 = {uri: "https://all.accor.ro/userfiles/galatioras_1602661176_1260x560_tt_80.jpg"};
 const Background3 = {uri: "https://www.expat.com/upload/guide/1563428489-galati-news_item_slider-t1563428489.jpg"};

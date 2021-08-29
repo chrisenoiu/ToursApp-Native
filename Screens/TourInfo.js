@@ -30,20 +30,18 @@ const styles = StyleSheet.create({
         width: Dimensions.get("screen").width,
     },
     back: {
+        top:0,
         flex: 1,
         zIndex: 0,
-        top:0,
         width: Dimensions.get("screen").width,
         height: Dimensions.get("screen").height/100*65,
-        // backgroundColor:"blue",
     },
     middle: {
-        zIndex: 1,
         bottom: 0,
+        zIndex: 1,
         position: "absolute",
         width: Dimensions.get("screen").width,
         height: Dimensions.get("screen").height/100*35,
-        // backgroundColor:"orange",
     },
     front: {
         top: 0,
@@ -51,7 +49,6 @@ const styles = StyleSheet.create({
         position: "absolute",
         width: Dimensions.get("screen").width,
         marginTop: Dimensions.get("screen").height/100*10,
-        // backgroundColor:"red",
     },
 })
 
