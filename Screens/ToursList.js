@@ -14,7 +14,7 @@ const ToursList = () => {
             <ImageBackground source={background} resizeMode="cover" style={styles.image}>
                 <Navigation/>
                 <Header text={title}/>
-                <Card/>
+                <Card />
             </ImageBackground>
         </View>
     );
