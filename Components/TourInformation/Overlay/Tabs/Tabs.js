@@ -3,17 +3,14 @@ import {createMaterialTopTabNavigator} from "@react-navigation/material-top-tabs
 import {Dimensions, Pressable, StyleSheet, Text, View} from "react-native";
 import {useNavigation} from "@react-navigation/native";
 
-
 //Imported Icons
 import Icon from 'react-native-vector-icons/Ionicons';
-
 const TimeIcon = <Icon name="time-outline" size={14} color="#D9BD97"/>;
 const LocationIcon = <Icon name="location-outline" size={14} color="#D9BD97"/>;
 
 //Imported Components
 import Road from "./Fields/Road";
 import Location from "./Fields/Location";
-
 
 //Road Information
 const importRoad = () => <Road title={titleRoad} text={textRoad}/>;
@@ -59,7 +56,7 @@ function Tabs() {
             </View>
             {/*Button Section*/}
             <View>
-                <Pressable style={button.background} onPress={() => Navigation.navigate("ToursList")}>
+                <Pressable style={button.background} onPress={() => Navigation.navigate("Home")}>
                     <Text style={button.text}>Inapoi</Text>
                 </Pressable>
             </View>

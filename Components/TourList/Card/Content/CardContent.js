@@ -9,7 +9,7 @@ const Time = <Icon name="time-outline" size={12} color="#fff"/>;
 const User = <Icon name="person-outline" size={12} color="#fff"/>;
 const Location = <Icon name="location-outline" size={12} color="#fff"/>;
 
-// I've set props for "name", "time", "group", "location" in Card.js;
+// I've set props for "name", "time", "group", "location" & "background" in Card.js;
 const Content = (props) => {
     return (
         <View style={styles.container}>
@@ -32,7 +32,7 @@ const Content = (props) => {
                                 </View>
                             </View>
                             <View style={styles.button}>
-                                <CustomButton target={"TourInfo"} text={"Incepe Aici"}/>
+                                <CustomButton key={props.item} target={"TourInfo"} text={"Incepe Aici"}/>
                             </View>
                         </View>
                     </View>
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 14,
-        fontWeight: "400",
+        fontWeight: "700",
         color: "#fff",
     },
     lower: {

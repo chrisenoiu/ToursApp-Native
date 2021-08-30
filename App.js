@@ -10,8 +10,8 @@ export default function App() {
     return (
         <SafeAreaView style={styles.view}>
             <NavigationContainer>
-                <Stack.Navigator initialRouteName="ToursList" screenOptions={{headerShown:false}}>
-                    <Stack.Screen name="ToursList" component={ToursList}/>
+                <Stack.Navigator initialRouteName="Home" screenOptions={{headerShown:false}}>
+                    <Stack.Screen name="Home" component={ToursList}/>
                     <Stack.Screen name="TourInfo" component={TourInfo}/>
                 </Stack.Navigator>
             </NavigationContainer>

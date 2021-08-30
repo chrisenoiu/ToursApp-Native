@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "name": "Gradina Publica",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "background": "https://www.zilesinopti.ro/media/3723902495742c3798e6e49.03443593.jpg",
+      "legend": "Folclorul urban al caselor bântuite a reuşit, fără doar şi poate, să bată orice tradiţie, oricât de bine ar fi fost înrădăcinată în istoria neamului, căci mai degrabă auzi acum în oraşe poveşti de groază cu stafii decât colinde."
+    },
+    {
+      "key": 2,
+      "name": "Casa Cuza Vodă",
+      "time": 2,
+      "group": 4,
+      "location": "Galati",
+      "background": "https://lh3.googleusercontent.com/proxy/q_AUXnyh16s4JbBumu4I8aBeu75OAPbE27tdWciH9MnExITS2ET6UZgQzuVuuulOQUs9ZXRROE037swC51A6ESBI14Kt",
+      "legend": "Casa Memorială a Voievodului Alexandru Ioan Cuza, sau mai bine spus, una dintre casele memoriale ale acestuia poate fi vizitată în orașul de reședință a județului Galați. Născut la Bârlad, în județul învecinat, Al. I. Cuza a ocupat funcția de pârcălab (un fel de conte) al județului Corvului (din care făcea parte și Galațiul), reprezentându-l la adunările ad hoc. Clădirea din Galați a fost construită pe locul fostei case a lui Cuza și păstrează obiecte de mobilier, obiecte personale sau documente semnate de voievod. Alături de obiecte ale acestuia, pot fi observate și câteva obiecte ale soției sale, Elena Cuza, și ale primului ministru din acea vreme, Mihail Kogălniceanu. "
+    },
+    {
+      "key": 3,
+      "name": "Complexul Muzeal Științele Naturii",
+      "time": 4,
+      "group": 10,
+      "location": "Galati",
+      "background": "https://romaniamama.ro/img/55178gradina-bot.jpg",
+      "legend": "Complexul Muzeal de Științele Naturii se află tot în municipiul Galați și se întinde pe o suprafață de aproximativ 18 ha, în apropiere de Faleza Dunării. Din Complexul Muzeal fac parte un Planetariu, Acvariu, dar și o Grădină Botanică și Grădina Zoologică. Pe lângă asta, în Complexul Muzeal se organizează diferite expoziții tematice interesante. Turiștii pot vizita toate acestea contra unei taxe de intrare, tariful fiind redus pentru copii, pensionari și persoane cu disabilități Dacă Planetariul și Acvariul pot fi vizitate în aceeași clădire, Grădina Zoologică, pe de altă parte este amplasată în apropierea orașului."
+    },
+    {
+      "key": 4,
+      "name": "Rezervația și Grădina Zoologică Gârboavele",
+      "time": 3,
+      "group": 6,
+      "location": "Galati",
+      "background": "https://www.inquamphotos.com/static12/preview2/inquam-photo-galati--gradina-zoologica-68261.jpg",
+      "legend": "Grădina Zoologică Gârboavele, făcând parte din Complexul Muzeal Științele Naturii, este amplasată în pădurea cu același nume, din comuna Tulucești, la aproximativ 17 km depărtare de Galați. Pădurea Gârboavele este considerată o rezervație forestieră de interes național, iar accesul în ea se face pe baza unei taxe. Grădina Zoologică, înființată în 1997, ocupă aproape 15 hectare din teritoriul pădurii. Îngrijitorii au grijă de peste 30 de specii de mamifere printre care lei, tigri, urși, lupi și maimuțe, însă în grija angajaților se află și diverse specii de păsări."
+    },
+    {
+      "key": 5,
+      "name": "Gara Fluvială",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "legend": "Clădirea Gării Fluviale este cunoscută și sub denumirea de Palatul Navigației. Aceasta a fost construită în 1912 cu scopul de a adăposti diferite birouri legate de transportul fluvial, dar și o sală de așteptare pentru călători. Aceasta este prima clădire din România pentru construcția căreia s-a folosit un schelet monolit din beton armat. Palatul Navigației a fost înscris în lista monumentelor istorice, iar în prezent adăpostește sediile diferitelor instituții, printre care și Compania de Navigație Fluvială Română, Navrom. Monumentul poate fi vizitat fără costuri, în municipiul Galați. ",
+      "background": "https://planiada.ro/www/uploads/476/185.Gara_Fluvial_sau_Palatul_Naviga_iei_7.jpg"
+    },
+    {
+      "key": 6,
+      "name": "Biserica fortificată „Precista”",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "legend": "Biserica se află în municipiul Galați și este considerată un monument istoric, datorită faptului că a fost construită între 1643 și 1647, în timpul lui Vasile Lupu. A fost construită din piatră și cărămidă, având clopotnița inclusă în corpul clădirii și un pod fortificat. Această clădire religioasă a devenit un adevărat simbol al orașului.",
+      "background": "https://i.pinimg.com/originals/63/27/a8/6327a851cb9dac35709aeee702f68e00.jpg"
+    },
+    {
+      "key": 7,
+      "name": "Faleza Dunării",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "legend": "Principala atracție a orașului este Faleza Dunării, o adevărată coloană vertebrală a turismului în Galați. Cu o lungime de 4 km, dispusă în două trepte - faleza superioară și faleza inferioară, este considerată cea mai lungă din Europa, de pe cursul Dunării. De-a lungul falezei veți întâlni sculpturi metalice realizate în anii 70, care își aduc contribuția la îmbogățirea experienței vizitatorilor sub aspect estetic.",
+      "background": "https://exploremag.ro/wp-content/uploads/2017/02/Faleza-Dun%C4%83rii-1-e1487677665636.jpg"
+    },
+    {
+      "key": 8,
+      "name": "Turnul Televiziunii",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "legend": "Turnul de Televiziune din Galați oferă o experiență inedită ce nu ar trebui ratată în trecerea dvs. prin oraș. Turnul este o construcţie unică în România şi asemănătoare cu alte două turnuri, unul din Canada (Toronto), celălalt din Germania (Berlin). Cu o înălțime de 150 m, Turnul este plasat la capătul vestic al Falezei Dunării, în vecinătatea plajei amenajată pe malul acesteia. Restaurantul din vârful turnului reprezintă un punct de referinţă al oraşului şi constituie o raritate mai ales prin forma lui aerodinamică, dar şi prin cupola aflată imediat sub releul TV. Mesele sunt plasate circular, astfel încât, din orice punct puteți avea o minunată panoramă a orașului.",
+      "background": "https://thumbs.dreamstime.com/b/galati-romania-july-aerial-view-city-night-lights-sunset-blue-hour-226080918.jpg"
+    },
+    {
+      "key": 9,
+      "name": "Parcul Viva",
+      "time": 1,
+      "group": 10,
+      "location": "Galati",
+      "legend": "Inaugurat în anul 2013, după lucrările de modernizare, Parcul Viva este unul dintre cele mai moderne din Galați. Parcul este dotat cu terenuri de sport, leagăne și locuri de jaocă pentru copii, skatepark și un mini lac cu pești.      ",
+      "background": "https://urlaub-in-rumänien.de/wp-content/uploads/2017/01/98145384_3851595904881820_4527874207001870336_o-420x236.jpg"
+    },
+    {
+      "key": 10,
+      "name": "Catedrala Ortodoxa",
+      "time": 8,
+      "group": 4,
+      "location": "Galati",
+      "about": "Catedrala Arhiepiscopală este impresionantă prin proporţiile sale armonioase şi prin ornamentaţie exterioară şi interioară boagată. Arhitectura pridvorului întregeşte aspectul monumental al catedralei. Decoraţiunile faţadelor constau în registre succesive de motive româneşti, locale, dar şi bizantine şi elemente geometrice. Pictura interioarelor este realizată prin tehnica fresco, în stilul neobizantin.",
+      "background": "https://locuridinromania.ro/wp-content/uploads/2017/03/Catedrala-ortodoxa-din-orasul-Galati-judetul-Galati-1.gif"
+    }
+  ]
+}
