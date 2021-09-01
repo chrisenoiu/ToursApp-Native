@@ -1,7 +1,7 @@
 import React from "react";
 import {Dimensions, StyleSheet} from "react-native";
 
-const FieldStyles = StyleSheet.create({
+const SectionStyle = StyleSheet.create({
     content: {
         backgroundColor: "#fff",
     },
@@ -21,7 +21,8 @@ const FieldStyles = StyleSheet.create({
         fontSize: 16,
         fontWeight: "400",
         color: '#D9BD97',
+        lineHeight: 20,
     },
 });
 
-export default FieldStyles;
+export default SectionStyle;
