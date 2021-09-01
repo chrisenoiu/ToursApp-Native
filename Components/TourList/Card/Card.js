@@ -1,5 +1,4 @@
 import React from "react";
-import {Dimensions, ScrollView, View, StyleSheet} from "react-native";
 import Content from "./Content/CardContent";
 import dataURL from "../../../data.json"
 
