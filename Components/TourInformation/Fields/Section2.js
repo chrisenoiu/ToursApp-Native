@@ -2,7 +2,7 @@ import React from "react";
 import {ScrollView, Text, View} from "react-native";
 import FieldStyles from "./Field.Style";
 
-const Location = (props) => {
+const Section2 = (props) => {
     return (
         <View style={FieldStyles.content}>
             <Text style={FieldStyles.title}>{props.title}</Text>
@@ -13,4 +13,4 @@ const Location = (props) => {
     )
 }
 
-export default Location;
+export default Section2;

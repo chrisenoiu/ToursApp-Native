@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "key": 1,
+      "id": 1,
       "name": "Gradina Publica",
       "time": 8,
       "group": 4,
@@ -10,7 +10,7 @@
       "legend": "Folclorul urban al caselor bântuite a reuşit, fără doar şi poate, să bată orice tradiţie, oricât de bine ar fi fost înrădăcinată în istoria neamului, căci mai degrabă auzi acum în oraşe poveşti de groază cu stafii decât colinde."
     },
     {
-      "key": 2,
+      "id": 2,
       "name": "Casa Cuza Vodă",
       "time": 2,
       "group": 4,
@@ -19,7 +19,7 @@
       "legend": "Casa Memorială a Voievodului Alexandru Ioan Cuza, sau mai bine spus, una dintre casele memoriale ale acestuia poate fi vizitată în orașul de reședință a județului Galați. Născut la Bârlad, în județul învecinat, Al. I. Cuza a ocupat funcția de pârcălab (un fel de conte) al județului Corvului (din care făcea parte și Galațiul), reprezentându-l la adunările ad hoc. Clădirea din Galați a fost construită pe locul fostei case a lui Cuza și păstrează obiecte de mobilier, obiecte personale sau documente semnate de voievod. Alături de obiecte ale acestuia, pot fi observate și câteva obiecte ale soției sale, Elena Cuza, și ale primului ministru din acea vreme, Mihail Kogălniceanu. "
     },
     {
-      "key": 3,
+      "id": 3,
       "name": "Complexul Muzeal Științele Naturii",
       "time": 4,
       "group": 10,
@@ -28,7 +28,7 @@
       "legend": "Complexul Muzeal de Științele Naturii se află tot în municipiul Galați și se întinde pe o suprafață de aproximativ 18 ha, în apropiere de Faleza Dunării. Din Complexul Muzeal fac parte un Planetariu, Acvariu, dar și o Grădină Botanică și Grădina Zoologică. Pe lângă asta, în Complexul Muzeal se organizează diferite expoziții tematice interesante. Turiștii pot vizita toate acestea contra unei taxe de intrare, tariful fiind redus pentru copii, pensionari și persoane cu disabilități Dacă Planetariul și Acvariul pot fi vizitate în aceeași clădire, Grădina Zoologică, pe de altă parte este amplasată în apropierea orașului."
     },
     {
-      "key": 4,
+      "id": 4,
       "name": "Rezervația și Grădina Zoologică Gârboavele",
       "time": 3,
       "group": 6,
@@ -37,7 +37,7 @@
       "legend": "Grădina Zoologică Gârboavele, făcând parte din Complexul Muzeal Științele Naturii, este amplasată în pădurea cu același nume, din comuna Tulucești, la aproximativ 17 km depărtare de Galați. Pădurea Gârboavele este considerată o rezervație forestieră de interes național, iar accesul în ea se face pe baza unei taxe. Grădina Zoologică, înființată în 1997, ocupă aproape 15 hectare din teritoriul pădurii. Îngrijitorii au grijă de peste 30 de specii de mamifere printre care lei, tigri, urși, lupi și maimuțe, însă în grija angajaților se află și diverse specii de păsări."
     },
     {
-      "key": 5,
+      "id": 5,
       "name": "Gara Fluvială",
       "time": 8,
       "group": 4,
@@ -46,7 +46,7 @@
       "background": "https://planiada.ro/www/uploads/476/185.Gara_Fluvial_sau_Palatul_Naviga_iei_7.jpg"
     },
     {
-      "key": 6,
+      "id": 6,
       "name": "Biserica fortificată „Precista”",
       "time": 8,
       "group": 4,
@@ -55,7 +55,7 @@
       "background": "https://i.pinimg.com/originals/63/27/a8/6327a851cb9dac35709aeee702f68e00.jpg"
     },
     {
-      "key": 7,
+      "id": 7,
       "name": "Faleza Dunării",
       "time": 8,
       "group": 4,
@@ -64,7 +64,7 @@
       "background": "https://exploremag.ro/wp-content/uploads/2017/02/Faleza-Dun%C4%83rii-1-e1487677665636.jpg"
     },
     {
-      "key": 8,
+      "id": 8,
       "name": "Turnul Televiziunii",
       "time": 8,
       "group": 4,
@@ -73,7 +73,7 @@
       "background": "https://thumbs.dreamstime.com/b/galati-romania-july-aerial-view-city-night-lights-sunset-blue-hour-226080918.jpg"
     },
     {
-      "key": 9,
+      "id": 9,
       "name": "Parcul Viva",
       "time": 1,
       "group": 10,
@@ -82,7 +82,7 @@
       "background": "https://urlaub-in-rumänien.de/wp-content/uploads/2017/01/98145384_3851595904881820_4527874207001870336_o-420x236.jpg"
     },
     {
-      "key": 10,
+      "id": 10,
       "name": "Catedrala Ortodoxa",
       "time": 8,
       "group": 4,

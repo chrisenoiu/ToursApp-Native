@@ -1,8 +1,8 @@
 import React from "react";
 import {View, StyleSheet, Dimensions} from "react-native";
 import MapContainer from "../Components/TourInformation/GoogleMap/MapContainer";
-import Overlay from "../Components/TourInformation/Overlay/Overlay";
-import Metrics from "../Components/TourInformation/Overlay/Metrics/Metrics";
+import InfoTabs from "../Components/TourInformation/InfoTabs";
+import Metrics from "../Components/TourInformation/Metrics/Metrics";
 
 const TourInfo = () => {
     return (
@@ -13,7 +13,7 @@ const TourInfo = () => {
             </View>
             {/*Overlay*/}
             <View style={styles.middle}>
-                <Overlay/>
+                <InfoTabs/>
             </View>
             {/*Map Container*/}
             <View style={styles.back}>

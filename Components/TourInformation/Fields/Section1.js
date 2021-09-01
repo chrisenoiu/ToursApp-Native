@@ -2,7 +2,7 @@ import React from "react";
 import { ScrollView, Text, View } from "react-native";
 import FieldStyles from "./Field.Style";
 
-const Road = (props) => {
+const Section1 = (props) => {
   return (
     <View style={FieldStyles.content}>
       <Text style={FieldStyles.title}>{props.title}</Text>
@@ -13,4 +13,4 @@ const Road = (props) => {
   );
 };
 
-export default Road;
+export default Section1;
